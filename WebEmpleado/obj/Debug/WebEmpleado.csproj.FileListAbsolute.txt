@@ -1,0 +1,8 @@
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/bin/WebEmpleado.dll
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/bin/WebEmpleado.pdb
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/obj/Debug/WebEmpleado.csprojAssemblyReference.cache
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/obj/Debug/WebEmpleado.dll
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/obj/Debug/WebEmpleado.pdb
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/bin/Newtonsoft.Json.dll
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/bin/Newtonsoft.Json.xml
+/Users/robertoflores/Projects/SlnEmpleados/WebEmpleado/obj/Debug/WebEmpleado.csproj.CopyComplete

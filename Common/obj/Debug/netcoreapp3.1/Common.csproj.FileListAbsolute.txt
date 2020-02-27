@@ -1,0 +1,8 @@
+/Users/robertoflores/Projects/SlnEmpleados/Common/bin/Debug/netcoreapp3.1/Common.deps.json
+/Users/robertoflores/Projects/SlnEmpleados/Common/bin/Debug/netcoreapp3.1/Common.dll
+/Users/robertoflores/Projects/SlnEmpleados/Common/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/robertoflores/Projects/SlnEmpleados/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfoInputs.cache
+/Users/robertoflores/Projects/SlnEmpleados/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfo.cs
+/Users/robertoflores/Projects/SlnEmpleados/Common/obj/Debug/netcoreapp3.1/Common.dll
+/Users/robertoflores/Projects/SlnEmpleados/Common/obj/Debug/netcoreapp3.1/Common.pdb
+/Users/robertoflores/Projects/SlnEmpleados/Common/obj/Debug/netcoreapp3.1/Common.csprojAssemblyReference.cache

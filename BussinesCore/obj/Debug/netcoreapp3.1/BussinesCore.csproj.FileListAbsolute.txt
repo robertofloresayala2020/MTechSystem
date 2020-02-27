@@ -1,0 +1,11 @@
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/bin/Debug/netcoreapp3.1/BussinesCore.deps.json
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/bin/Debug/netcoreapp3.1/BussinesCore.dll
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/bin/Debug/netcoreapp3.1/BussinesCore.pdb
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/bin/Debug/netcoreapp3.1/DataCore.dll
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/bin/Debug/netcoreapp3.1/DataCore.pdb
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.csprojAssemblyReference.cache
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.AssemblyInfoInputs.cache
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.AssemblyInfo.cs
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.csproj.CopyComplete
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.dll
+/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/Debug/netcoreapp3.1/BussinesCore.pdb

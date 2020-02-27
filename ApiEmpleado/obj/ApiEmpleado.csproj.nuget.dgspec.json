@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robertoflores/Projects/SlnEmpleados/ApiEmpleado/ApiEmpleado.csproj": {}
+  },
+  "projects": {
+    "/Users/robertoflores/Projects/SlnEmpleados/ApiEmpleado/ApiEmpleado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertoflores/Projects/SlnEmpleados/ApiEmpleado/ApiEmpleado.csproj",
+        "projectName": "ApiEmpleado",
+        "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/ApiEmpleado/ApiEmpleado.csproj",
+        "packagesPath": "/Users/robertoflores/.nuget/packages/",
+        "outputPath": "/Users/robertoflores/Projects/SlnEmpleados/ApiEmpleado/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertoflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/BussinesCore.csproj": {
+                "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/BussinesCore.csproj"
+              },
+              "/Users/robertoflores/Projects/SlnEmpleados/Common/Common.csproj": {
+                "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/BussinesCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/BussinesCore.csproj",
+        "projectName": "BussinesCore",
+        "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/BussinesCore.csproj",
+        "packagesPath": "/Users/robertoflores/.nuget/packages/",
+        "outputPath": "/Users/robertoflores/Projects/SlnEmpleados/BussinesCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertoflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/robertoflores/Projects/SlnEmpleados/DataCore/DataCore.csproj": {
+                "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/DataCore/DataCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robertoflores/Projects/SlnEmpleados/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertoflores/Projects/SlnEmpleados/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/Common/Common.csproj",
+        "packagesPath": "/Users/robertoflores/.nuget/packages/",
+        "outputPath": "/Users/robertoflores/Projects/SlnEmpleados/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertoflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robertoflores/Projects/SlnEmpleados/DataCore/DataCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertoflores/Projects/SlnEmpleados/DataCore/DataCore.csproj",
+        "projectName": "DataCore",
+        "projectPath": "/Users/robertoflores/Projects/SlnEmpleados/DataCore/DataCore.csproj",
+        "packagesPath": "/Users/robertoflores/.nuget/packages/",
+        "outputPath": "/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertoflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

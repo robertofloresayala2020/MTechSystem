@@ -1,0 +1,8 @@
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/bin/Debug/netcoreapp3.1/DataCore.deps.json
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/bin/Debug/netcoreapp3.1/DataCore.dll
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/bin/Debug/netcoreapp3.1/DataCore.pdb
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/Debug/netcoreapp3.1/DataCore.csprojAssemblyReference.cache
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/Debug/netcoreapp3.1/DataCore.AssemblyInfoInputs.cache
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/Debug/netcoreapp3.1/DataCore.AssemblyInfo.cs
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/Debug/netcoreapp3.1/DataCore.dll
+/Users/robertoflores/Projects/SlnEmpleados/DataCore/obj/Debug/netcoreapp3.1/DataCore.pdb
